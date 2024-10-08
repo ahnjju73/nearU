@@ -1,0 +1,11 @@
+export const { NEXT_PUBLIC_SESSION_KEY } = process.env;
+export const { NEXT_PUBLIC_REFRESH_SESSION_KEY } = process.env;
+export const { NEXT_PUBLIC_API_DOMAIN } = process.env;
+export const { NEXT_PUBLIC_ENV } = process.env;
+export const { NEXT_PUBLIC_API_COMMON_DOMAIN } = process.env;
+export const { NEXT_PUBLIC_DEPLOY_PATH } = process.env;
+export const { NEXT_PUBLIC_VERSION_ANDROID } = process.env;
+export const { NEXT_PUBLIC_SESSION_TYPE } = process.env;
+export const { NEXT_PUBLIC_WEB_SOCKET } = process.env;
+export const { NEXT_PUBLIC_INICIS } = process.env;
+export const { NEXT_PUBLIC_JS_KEY_KAKAO } = process.env;
